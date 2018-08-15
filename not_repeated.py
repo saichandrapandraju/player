@@ -1,5 +1,5 @@
-g=input()
-c=len(g)
+a=input()
+c=len(a)
 q=0
 w=0
 new=[]
@@ -12,5 +12,7 @@ while(q==0):
         w+=1
     elif(l not in new):
         print(l)
-    elif(list==[]):
+    else:
+        q=0
+    if(list==[]):
         break

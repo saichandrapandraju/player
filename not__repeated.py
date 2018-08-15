@@ -1,5 +1,4 @@
-a=input()
-c=len(a)
+giv=input()
 q=0
 w=0
 new=[]

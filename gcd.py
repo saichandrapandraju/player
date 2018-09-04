@@ -8,5 +8,3 @@ else:
 		if((a%c)==0 and (b%c)==0):
 			print(c)
 			break
-		
-		
